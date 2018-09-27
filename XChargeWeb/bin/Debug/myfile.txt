@@ -1,0 +1,14 @@
+ResponseCode=000
+RESULT=SUCCESS
+XCTRANSACTIONID=000000000335
+XCTRANSACTIONID=Purchase
+Amount=1.00
+ACCOUNTTYPE=Visa
+MaskedAcctNum=************1111
+EXPIRTATION=1210
+AcctNumSource=Manual
+ProcessorResponse=DEVELOPMENT+APPROVAL
+BatchNum=000001
+BatchAmount=1.00
+ApprovalCode=417666
+CommercialCardResponseCode=0

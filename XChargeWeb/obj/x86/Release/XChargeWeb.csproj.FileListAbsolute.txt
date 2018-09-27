@@ -1,0 +1,10 @@
+C:\Users\John\documents\visual studio 2010\Projects\XChargeWeb\XChargeWeb\bin\Release\XChargeWeb.exe.config
+C:\Users\John\documents\visual studio 2010\Projects\XChargeWeb\XChargeWeb\bin\Release\XChargeWeb.exe
+C:\Users\John\documents\visual studio 2010\Projects\XChargeWeb\XChargeWeb\bin\Release\XChargeWeb.pdb
+C:\Users\John\documents\visual studio 2010\Projects\XChargeWeb\XChargeWeb\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\John\documents\visual studio 2010\Projects\XChargeWeb\XChargeWeb\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\John\documents\visual studio 2010\Projects\XChargeWeb\XChargeWeb\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\John\documents\visual studio 2010\Projects\XChargeWeb\XChargeWeb\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\John\documents\visual studio 2010\Projects\XChargeWeb\XChargeWeb\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\John\documents\visual studio 2010\Projects\XChargeWeb\XChargeWeb\obj\x86\Release\XChargeWeb.exe
+C:\Users\John\documents\visual studio 2010\Projects\XChargeWeb\XChargeWeb\obj\x86\Release\XChargeWeb.pdb
